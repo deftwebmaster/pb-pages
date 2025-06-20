@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Magic Trick Reveal on PeekBehind</title>
-    <link>http://localhost:1313/tags/magic-trick-reveal/</link>
+    <link>https://peekbehind.com/tags/magic-trick-reveal/</link>
     <description>Recent content in Magic Trick Reveal on PeekBehind</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Jun 2025 17:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/magic-trick-reveal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peekbehind.com/tags/magic-trick-reveal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Controlled Chaos: How Magicians Use Disorder to Fool You</title>
-      <link>http://localhost:1313/posts/controlled-chaos/</link>
+      <link>https://peekbehind.com/posts/controlled-chaos/</link>
       <pubDate>Thu, 19 Jun 2025 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/controlled-chaos/</guid>
+      <guid>https://peekbehind.com/posts/controlled-chaos/</guid>
       <description>Magicians make it look chaotic, sloppy, even out of control. But that randomness? It&amp;rsquo;s often a disguise. Here&amp;rsquo;s how &amp;lsquo;messy&amp;rsquo; card tricks really work.</description>
     </item>
   </channel>

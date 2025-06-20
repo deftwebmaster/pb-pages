@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on PeekBehind</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://peekbehind.com/posts/</link>
     <description>Recent content in Posts on PeekBehind</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Jun 2025 23:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peekbehind.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The French Drop: How a Coin Vanishes into Thin Air</title>
-      <link>http://localhost:1313/posts/french-drop/</link>
+      <link>https://peekbehind.com/posts/french-drop/</link>
       <pubDate>Thu, 19 Jun 2025 23:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/french-drop/</guid>
+      <guid>https://peekbehind.com/posts/french-drop/</guid>
       <description>&lt;h1 id=&#34;the-french-drop-how-a-coin-vanishes-into-thin-air&#34;&gt;The French Drop: How a Coin Vanishes into Thin Air&lt;/h1&gt;
 &lt;p&gt;It’s over in seconds.&lt;/p&gt;
 &lt;p&gt;You see a coin — clearly — pinched between the magician’s fingers.&lt;/p&gt;
@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>Symphony of Chaos: How Dani DaOrtiz Makes Disorder Do His Bidding</title>
-      <link>http://localhost:1313/posts/symphony-of-chaos/</link>
+      <link>https://peekbehind.com/posts/symphony-of-chaos/</link>
       <pubDate>Thu, 19 Jun 2025 22:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/symphony-of-chaos/</guid>
+      <guid>https://peekbehind.com/posts/symphony-of-chaos/</guid>
       <description>&lt;h1 id=&#34;symphony-of-chaos-how-dani-daortiz-makes-disorder-do-his-bidding&#34;&gt;Symphony of Chaos: How Dani DaOrtiz Makes Disorder Do His Bidding&lt;/h1&gt;
 &lt;p&gt;It doesn’t look like a trick. It looks like a &lt;strong&gt;situation&lt;/strong&gt; spiraling in real time.&lt;/p&gt;
 &lt;p&gt;Cards are flying. Spectators are choosing. Instructions are vague, shifting, almost improvised.&lt;br&gt;
@@ -35,9 +35,9 @@ It’s the illusion of it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Open Triumph: How to Hide Control in Plain Sight</title>
-      <link>http://localhost:1313/posts/open-triumph/</link>
+      <link>https://peekbehind.com/posts/open-triumph/</link>
       <pubDate>Thu, 19 Jun 2025 21:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/open-triumph/</guid>
+      <guid>https://peekbehind.com/posts/open-triumph/</guid>
       <description>&lt;h1 id=&#34;open-triumph-how-to-hide-control-in-plain-sight&#34;&gt;Open Triumph: How to Hide Control in Plain Sight&lt;/h1&gt;
 &lt;p&gt;It looks unscripted. Unstructured. A bit sloppy, even.&lt;/p&gt;
 &lt;p&gt;Cards are flipped face-up and face-down. The audience names a card. The deck rights itself — instantly — with just one card left reversed.&lt;/p&gt;
@@ -51,9 +51,9 @@ A face-up/face-down deck magically corrects itself — all but the chosen card.&
     </item>
     <item>
       <title>The Illusion of Freedom: How Multiple Outs Create Miracles</title>
-      <link>http://localhost:1313/posts/multiple-outs/</link>
+      <link>https://peekbehind.com/posts/multiple-outs/</link>
       <pubDate>Thu, 19 Jun 2025 19:15:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/multiple-outs/</guid>
+      <guid>https://peekbehind.com/posts/multiple-outs/</guid>
       <description>&lt;h1 id=&#34;the-illusion-of-freedom-how-multiple-outs-create-miracles&#34;&gt;The Illusion of Freedom: How Multiple Outs Create Miracles&lt;/h1&gt;
 &lt;p&gt;You made the choice.&lt;br&gt;
 You shuffled the cards.&lt;br&gt;
@@ -64,16 +64,16 @@ But by &lt;strong&gt;planning every possible path&lt;/strong&gt; before you even
     </item>
     <item>
       <title>Controlled Chaos: How Magicians Use Disorder to Fool You</title>
-      <link>http://localhost:1313/posts/controlled-chaos/</link>
+      <link>https://peekbehind.com/posts/controlled-chaos/</link>
       <pubDate>Thu, 19 Jun 2025 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/controlled-chaos/</guid>
+      <guid>https://peekbehind.com/posts/controlled-chaos/</guid>
       <description>Magicians make it look chaotic, sloppy, even out of control. But that randomness? It&amp;rsquo;s often a disguise. Here&amp;rsquo;s how &amp;lsquo;messy&amp;rsquo; card tricks really work.</description>
     </item>
     <item>
       <title>The Coin Through Table Illusion: Sleight, Sound, and Suspicion</title>
-      <link>http://localhost:1313/posts/coin-through-table/</link>
+      <link>https://peekbehind.com/posts/coin-through-table/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/coin-through-table/</guid>
+      <guid>https://peekbehind.com/posts/coin-through-table/</guid>
       <description>A breakdown of one of close-up magic&amp;rsquo;s most iconic illusions — how magicians pass a solid coin through solid wood (or at least make you believe they do).</description>
     </item>
   </channel>
