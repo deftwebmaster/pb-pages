@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sleight School on PeekBehind</title>
+    <link>http://localhost:1313/tags/sleight-school/</link>
+    <description>Recent content in Sleight School on PeekBehind</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/sleight-school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Coin Through Table Illusion: Sleight, Sound, and Suspicion</title>
+      <link>http://localhost:1313/posts/coin-through-table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coin-through-table/</guid>
+      <description>A breakdown of one of close-up magic&amp;rsquo;s most iconic illusions — how magicians pass a solid coin through solid wood (or at least make you believe they do).</description>
+    </item>
+  </channel>
+</rss>
