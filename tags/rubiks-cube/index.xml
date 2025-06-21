@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Close-Up Magic on PeekBehind</title>
-    <link>https://peekbehind.com/tags/close-up-magic/</link>
-    <description>Recent content in Close-Up Magic on PeekBehind</description>
+    <title>Rubik&#39;s Cube on PeekBehind</title>
+    <link>https://peekbehind.com/tags/rubiks-cube/</link>
+    <description>Recent content in Rubik&#39;s Cube on PeekBehind</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Jun 2025 14:25:00 +0000</lastBuildDate>
-    <atom:link href="https://peekbehind.com/tags/close-up-magic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://peekbehind.com/tags/rubiks-cube/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steven Brundage and the Art of Cube Deception</title>
       <link>https://peekbehind.com/posts/steven-brundage-art-cube-deception/</link>
       <pubDate>Sat, 21 Jun 2025 14:25:00 +0000</pubDate>
       <guid>https://peekbehind.com/posts/steven-brundage-art-cube-deception/</guid>
       <description>How Steven Brundage uses raw skill, false scrambles, and psychological mastery to transform the humble Rubik’s Cube into a canvas for modern magic.</description>
-    </item>
-    <item>
-      <title>The Coin Through Table Illusion: Sleight, Sound, and Suspicion</title>
-      <link>https://peekbehind.com/posts/coin-through-table/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://peekbehind.com/posts/coin-through-table/</guid>
-      <description>A breakdown of one of close-up magic&amp;rsquo;s most iconic illusions — how magicians pass a solid coin through solid wood (or at least make you believe they do).</description>
     </item>
   </channel>
 </rss>
